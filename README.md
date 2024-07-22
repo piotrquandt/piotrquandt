@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piotrquandt
-- 👀 I’m interested in web development / front-end / UX/UI
+- 👀 I’m interested in python / web development / UX/UI
 - 🌱 I’m currently learning Git & GitHub
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
